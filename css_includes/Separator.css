@@ -1,0 +1,9 @@
+.next-item-failure-message {
+    color: red;
+}
+.next-item-message {
+    font-style: italic;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 32px;
+    line-height: 400%; 
+}
